@@ -288,14 +288,14 @@
             <artifactId>SCore</artifactId>
             <version>5.24.7.8</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/lib/SCore-5.24.7.9.jar</systemPath>
+            <systemPath>${project.basedir}/lib/SCore-5.24.8.4.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>com.ssomar.score</groupId>
             <artifactId>ExecutableItems</artifactId>
             <version>7.24.7.9</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/lib/ExecutableItems-7.24.7.9.jar</systemPath>
+            <systemPath>${project.basedir}/lib/ExecutableItems_Prem-7.24.8.4.jar</systemPath>
         </dependency>
     </dependencies>
 </project>
